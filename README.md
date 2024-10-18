@@ -1,5 +1,7 @@
 # KoinKtor
 
+<img src="screenshot/home_screen.png" width="150" height="300em" /> <img src="screenshot/network_error_screen.png" width="150" height="300em" />
+
 A brief description of this Android project that implements Clean Architecture using Ktor and Koin.
 
 ## Table of Contents
