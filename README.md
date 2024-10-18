@@ -8,9 +8,6 @@ A brief description of this Android project that implements Clean Architecture u
 - [Technologies Used](#technologies-used)
 - [Architecture](#architecture)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
